@@ -1,0 +1,84 @@
+[PROJECT]
+
+[RP:SEQ_NOGLO]
+1=
+
+[RP:SEQ+EVB2]
+1=
+
+[RP:IDEAL_OUT3]
+1=
+
+[RP:SEQ_OPT_OUT3]
+1=
+
+[RP:SEQ+EVB_OUT3]
+1=
+
+[RP:IDEAL_OUT]
+1=
+
+[RP:SEQ_OUT]
+1=
+
+[RP:SEQ+EVB_OUT]
+1=
+
+[RP:SEQ+SS_OUT]
+1=
+
+[RP:SEQ+VB_OUT]
+1=
+
+[RP:IDEAL]
+1=
+
+[RP:SEQ+VB]
+1=
+
+[RP:UNTITLED_1]
+1=
+
+[RP:IDEAL2]
+1=
+
+[RP:IDEAL3]
+1=
+
+[RP:SS]
+1=
+
+[RP:SEQ]
+1=
+
+[RP:SEQ+SS]
+1=
+
+[RP:SSVB]
+1=
+
+[RP:SEQ_EQU]
+1=
+
+[RP:SEQ+EVB]
+1=
+
+[MRUFILES]
+1=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\insample\SEQ+EVB.gms
+2=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\VB EL NG\2019\try\MCP_working_noPmin\SSVB.gms
+3=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ+EVB.gms
+4=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ+EVB.lst
+5=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ+SS.gms
+6=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\VB EL NG\2019\MCP_working_Pmin\SSVB.gms
+7=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ+VB.gms
+8=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ_equ.lst
+9=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\GAMS\SEQ_equ.gms
+
+[OPENWINDOW_1]
+FILE0=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\insample\SEQ_equ.gms
+FILE1=C:\Users\schwele\OneDrive - Danmarks Tekniske Universitet\DTU\Computational Management Science\insample\SEQ_equ.gms
+MAXIM=1
+TOP=42
+LEFT=50
+HEIGHT=408
+WIDTH=400
